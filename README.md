@@ -1,10 +1,13 @@
 ### Hi, I'm Cyrus!
-Let's connect on [LinkedIn](https://www.linkedin.com/in/cyrusahn/)
+Let's connect on [LinkedIn]!(https://www.linkedin.com/in/cyrusahn/)
 
 ## Core Skills
 - **Languages**: Python, Java, C/C++, SQL, HTML, CSS, Bash, MATLAB 
 - **Data Science Tools**: Pandas, scipy, PyTorch, TensorFlow, Matplotlib, scikit-learn
 - **Cloud Technologies**: AWS (S3, Lambda, CloudWatch, Amplify, DynamoDB), Atlassian (Jira, Confluence, Bitbucket)
+
+[![Linkedin Badge](https://img.shields.io/badge/-@cyrusahn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrusahn/)](https://www.linkedin.com/in/cyrusahn/)
+[![Outlook Badge](https://img.shields.io/badge/-cyrusahn-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:cyrusahn@gmail.com)](mailto:cyrusahn@gmail.com)
 
 <!--
 **cyrusahn/cyrusahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
