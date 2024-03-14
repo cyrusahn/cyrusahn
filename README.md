@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Core Skills
+- **Languages**: Python, Java, C/C++, SQL, HTML, CSS, Bash, MATLAB 
+- **Cloud Technologies**: Pandas, scipy, PyTorch, TensorFlow, Matplotlib, scikit-learn
+- **Tools**: AWS (S3, Lambda, CloudWatch, Amplify, DynamoDB), Atlassian (Jira, Confluence, Bitbucket)
+
+##
+![Cyrus's Github Stats](https://github-readme-stats.vercel.app/api?username=cyrusahn&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusahn&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cyrusahn/cyrusahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
