@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Cyrus!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/cyrusahn/)
 
 ## Core Skills
 - **Languages**: Python, Java, C/C++, SQL, HTML, CSS, Bash, MATLAB 
